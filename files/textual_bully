@@ -1,0 +1,8 @@
+;; Stop-IRC-Bullying script for Textual. Written by an ex-bully-victim who rather wants to stay anonymous.
+;; Place in Textual script directory as 'bully' and it will be automatically enabled.
+
+$textual = app "Textual";
+
+$textual->hook("bully", funct(target_nick) [
+    $this->sendMsg("$target_nick: I feel offended by your recent action(s). Please read http://stop-irc-bullying.eu/stop");
+]);
