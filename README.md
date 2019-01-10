@@ -5,7 +5,7 @@
 	|___/\__\___/| .__/  |_|_|  \___| |_.__/ \__,_|_|_|\__, |_|_| |_|\__, |
 	             |_|                                   |___/         |___/
 
-A website devoted to the education and prevention of IRC bullying.
+A website devoted to the education and prevention of IRC bullying. A live version can be found at https://stop-irc-bullying.info
 
 If you wish to host a mirror, you can do so by deploying these files to your root directory. Mod_Rewrite is required.
 
