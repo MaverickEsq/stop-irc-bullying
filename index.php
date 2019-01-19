@@ -27,6 +27,7 @@ switch ($page) {
 		require('./inc/content/tips.inc');
 		break;
 	case "fighting-bullying/anti-bully-alias":
+	case "anti-bully-alias":
 		require('./inc/content/alias.inc');
 		break;
 	case "fighting-bullying/best-practice":

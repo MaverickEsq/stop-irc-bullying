@@ -1,5 +1,5 @@
 alias bully {
-  var %m I feel offended by your recent action(s). Please read http://stop-irc-bullying.eu/stop
+  var %m I feel offended by your recent action(s). Please read http://stop-irc-bullying.info/stop
   if ($1) {
     var %i 1
     while (%i <= $0) {
